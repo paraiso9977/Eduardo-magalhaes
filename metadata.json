@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of CityScope Live",
+  "description": "A modern weather and live webcam explorer. Search for any city to see local time, weather, and available public webcams in a sleek Material Design interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
